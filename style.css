@@ -694,7 +694,7 @@ h2 {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    row-gap: 2em;
+    row-gap: 0em;
     column-gap: 3em;
 
 }
