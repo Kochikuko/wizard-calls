@@ -691,7 +691,7 @@ h2 {
 
 .wrappper-7-f {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
     row-gap: 2em;
